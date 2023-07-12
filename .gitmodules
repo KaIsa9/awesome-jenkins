@@ -1,0 +1,3 @@
+[submodule "springboot-api"]
+	path = springboot-api
+	url = https://github.com/DariaTerteac/springboot-api-rest-example.git
