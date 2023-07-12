@@ -1,2 +1,2 @@
 [submodule "springboot-api"]
-	branch = test_branch_submodule
+	branch = origin/test_branch_submodule
